@@ -42,13 +42,13 @@ I’m passionate about **Full Stack Development, simulations, and web technologi
 
 ### 📫 How to Reach Me
 - 🌐 [thekencave.com](https://thekencave.com)  
-- 📧 [YourEmailHere]  
+- 📧 triphine.dsng@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 
 ---
 
 ### ⚡ Fun Fact
-When I’m not coding, I’m probably exploring **new tech stacks** or fine-tuning simulations just for the fun of it.  
+When I’m not coding, I’m probably exploring **new tech stacks** or out fishing for dinner in the river.
 
 ---
 
