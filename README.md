@@ -2,13 +2,17 @@
 
 🚀 .NET Developer | Tech Explorer | Builder of Digital Solutions  
 
-I’m passionate about **software engineering, simulations, and web technologies**. My journey is focused on expanding skills across **.NET, Python, DevOps, and emerging agentic AI features**, while also working on real-world applications in logistics, simulations, and system design.  
+I’m passionate about **Full Stack Development, simulations, and web technologies**. My journey is focused on expanding skills across **.NET, Python, DevOps, and emerging agentic AI features**, while also working on real-world applications in logistics, simulations, and system design.  
+
+---
+
+### 📊 GitHub Streak Stats  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=P3klgh&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
 ### 🔭 Current Projects
-- **[InterportCargo System](https://github.com/yourusername/InterportCargo)** – A logistics platform with customer & employee portals, quotations, and secure database integration.  
-- **Simulation Project (Wilmar Industries x QUT)** – Building mathematical models and real-time SQL-based systems for analyzing train efficiency and energy regeneration.  
+- **[Inventory Management System (Church PA Equipment)](https://github.com/P3klgh/InventoryManagement)** – A tailored solution to track, manage, and maintain audio/visual equipment used in church services.  
 - **[The Ken Cave](https://thekencave.com)** – My personal site/blog where I document projects, share ideas, and explore new tech stacks.  
 
 ---
@@ -47,3 +51,4 @@ I’m passionate about **software engineering, simulations, and web technologies
 When I’m not coding, I’m probably exploring **new tech stacks** or fine-tuning simulations just for the fun of it.  
 
 ---
+
